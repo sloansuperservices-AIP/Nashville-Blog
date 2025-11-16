@@ -1,0 +1,5 @@
+{
+  "name": "Nashville Blog Aggregator",
+  "description": "An AI-powered aggregator that scrapes and summarizes the latest posts from top Nashville blogs based on user-provided keywords. Save your favorite articles for the week.",
+  "requestFramePermissions": []
+}
